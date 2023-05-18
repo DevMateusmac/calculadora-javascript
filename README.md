@@ -1,3 +1,4 @@
 # calculadora-javascript
- 
-![calc](https://github.com/DevMateusmac/calculadora-javascript/assets/99038035/1e6050cd-eafe-4f97-a415-bed934367e27)
+
+
+![calc](https://github.com/DevMateusmac/calculadora-javascript/assets/99038035/d524f6b1-ce6a-4ee3-87a0-e6bad97cc7d6)
